@@ -1,0 +1,1 @@
+The original Pastebin v0.60.  Info copied from their current website at pastebin.com.
